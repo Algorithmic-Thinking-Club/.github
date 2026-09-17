@@ -9,7 +9,7 @@ An adventure game that teaches incoming freshmen what Bonney Lake offers: the cl
 sports, the electives, the cords they can earn. A student plays it in one advisory block,
 sails between islands, and every island is one real thing at the school.
 
-![The hub of BLHS Island Explorer, a harbour town under a mountain](screenshots/hub.png)
+![The title screen of BLHS Island Explorer](screenshots/title.png)
 
 Play it at [blhs-island-explorer.vercel.app](https://blhs-island-explorer.vercel.app).
 

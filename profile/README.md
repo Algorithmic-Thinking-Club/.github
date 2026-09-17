@@ -9,10 +9,9 @@ An adventure game that teaches incoming freshmen what Bonney Lake offers: the cl
 sports, the electives, the cords they can earn. A student plays it in one advisory block,
 sails between islands, and every island is one real thing at the school.
 
-![The hub](screenshots/hub.png)
-![The Panther's Maw](screenshots/maw.png)
+![The hub of BLHS Island Explorer, a harbour town under a mountain](screenshots/hub.png)
 
-Play it: https://blhs-island-explorer.vercel.app
+Play it at [blhs-island-explorer.vercel.app](https://blhs-island-explorer.vercel.app).
 
 Three repositories make it:
 
@@ -22,8 +21,30 @@ Three repositories make it:
 - **[BLHS-Island-Explorer](https://github.com/Algorithmic-Thinking-Club/BLHS-Island-Explorer)**
   is where members build islands. Three files in Python, one row to register it, and it is in
   the game. Start with the skeleton and the README.
-- **[MAPVIS](https://github.com/ashwath-polali/MAPVIS)** is the map platform: a painting becomes a
-  walkable world, with the mechanics drawn by hand, and it publishes straight into the game.
+- **[MAPVIS](https://github.com/ashwath-polali/MAPVIS)** is the map platform: a painting becomes
+  a walkable world, with the mechanics drawn by hand, and it publishes straight into the game.
+
+## The club website
+
+Our own site. It carries what we compete in, what we have built and who is in the club, and it
+is where a new member signs up. Next.js and TypeScript, on Vercel.
+
+![The Algorithmic Thinking Club website, a pixel art computer lab](screenshots/atc-site.png)
+
+Visit it at [atc-blhs.vercel.app](https://atc-blhs.vercel.app), and the code is in
+[atc-blhs-website](https://github.com/Algorithmic-Thinking-Club/atc-blhs-website).
+
+## WiseGraph
+
+Built for a Bonney Lake teacher who gives standardized assessments and then has to explain the
+results to families. WiseGraph draws the scores onto one figure you can hand across a table or
+put on a wall, so a score of 130 reads as a place on the curve rather than a percentage.
+Next.js, Prisma and Supabase.
+
+![WiseGraph, a radial chart of one student's evaluation](screenshots/wisegraph.png)
+
+Visit it at [wisegraph.vercel.app](https://wisegraph.vercel.app), and the code is in
+[WiseGraph](https://github.com/ashwath-polali/WiseGraph).
 
 ## Join
 

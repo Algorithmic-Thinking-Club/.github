@@ -1,0 +1,8 @@
+[0.0s] goto https://blhs-island-explorer.vercel.app/?scene=pmap&deep=1&map=hub
+[1.3s] CONSOLE.warning [pmap] hub: 6 of 24 standing figures are not in the floor, because each of them shut something off: a275, a276, a277, a279, a329 (shuts off panthers_maw), a366. Those ones can still be walked through; the rest are solid.
+[1.5s] CONSOLE.warning     at at (https://blhs-island-explorer.vercel.app/assets/PmapScene-DESbpV3q.js:3:33524)
+[1.5s] scene ready
+[1.8s] CONSOLE.warning [pmap] hub: this island claims "dock_one", "dock_three", "dock_two", which are not anchors on this map. It has: panthers_maw
+[5.6s] HTTP 503 https://blhs-island-explorer.vercel.app/api/log
+[5.6s] CONSOLE.error Failed to load resource: the server responded with a status of 503 ()
+[13.1s] hub {"map":"hub","z":3,"at":"360,440","line":""}
